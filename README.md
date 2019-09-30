@@ -1,5 +1,5 @@
 # medical-journal-search-reactApp
-Search medical journal by keywords. React app built using API.
+Search medical journal by keywords. React app built using API. Link to google search for the original journals.
 
 deployment:
-https://medical-journal-search-react.herokuapp.com/
+https://med-journal-search-react.herokuapp.com/
