@@ -1,28 +1,32 @@
 .App {
   text-align: center;
-  background-color:pink;
-  width:100%;
+  background-color: pink;
+  width: 100%;
 }
 body {
-  background-image:url('2.jpeg');
-  color:#125012;
-  font-weight:bold;
-   width: 100%;
+  background-image: url("2.jpeg");
+  color: #125012;
+  font-weight: bold;
+  width: 100%;
   /* height:80%;  */
-    /* max-width: 100vw; */
-    height:auto;
-    width:auto;
-    /* max-height:100vh; */
+  /* max-width: 100vw; */
+  height: auto;
+  width: auto;
+  /* max-height:100vh; */
   /* Full height */
   /* Center and scale the image nicely */
-   background-position: center;
-  background-repeat: no-repeat; 
+  background-position: center;
+  background-repeat: no-repeat;
   /* background-size: cover; */
- 
-    background-repeat: repeat-x;  
+
+  background-repeat: repeat-x;
 }
 
-h4{
-  font-size:16pt;
+h3 {
+  font-size: 18pt;
+  font-weight: bold;
+}
+h4 {
+  font-size: 13pt;
   font-weight: bold;
 }
